@@ -1,0 +1,41 @@
+.banner{
+	background-color: #949ba3;
+	padding-top: 50px;
+	text-align: center;
+	color: #ffffff;
+}
+.slider{
+	display: none;
+	overflow: hidden;
+}
+.slider img{
+	width: 100%;
+}
+.banheader{
+	font-family: "times new roman";
+}
+.banheader h1{
+	font-size: 2.666666rem;
+}
+.banheader h2{
+	font-size: 1.666666rem;
+}
+.banner_wrap{
+	position: relative;
+}
+.feedback{
+	background-color: #4a4d51;
+	font-size: 0;
+}
+.feedback>*{
+	display: inline-block;
+	vertical-align: top;
+}
+.feedbackheader h1{
+	font-size: 1.66666rem;
+	color: #f3af00;
+	padding-bottom: 38px;
+}
+.feedbackheader h2{
+	font-size: 1rem;
+}
